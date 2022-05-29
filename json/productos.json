@@ -1,0 +1,64 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "texto": "Papel Transparente x420 - Lion Rolling Circus",
+      "imagen": "img/producto20.jpeg"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "texto": "Celulosa Lion Rolling Circus King Size 110mm",
+      "imagen": "img/producto21.jpeg"
+    },
+    {
+      "precio": 250,
+      "id": 3,
+      "texto": "Encendedor Lion Rolling Circus",
+      "imagen": "img/producto22.jpeg"
+    },
+    {
+      "precio": 1450,
+      "id": 4,
+      "texto": "Bandeja Lion Rolling Circus",
+      "imagen": "img/producto23.jpeg"
+    },
+    {
+      "precio": 330,
+      "id": 5,
+      "texto": "Filtro Unbleached Slim Lion Rolling Circus 6mm",
+      "imagen": "img/producto24.jpeg"
+    },
+    {
+      "precio": 2300,
+      "id": 6,
+      "texto": "Picador Metal Estrella de la muerte (3 partes)",
+      "imagen": "img/producto25.png"
+    },
+    {
+      "precio": 2000,
+      "id": 7,
+      "texto": "Picador Amsterdam Metal - Lion Rolling Circus",
+      "imagen": "img/producto26.jpeg"
+    },
+    {
+      "precio": 650,
+      "id": 8,
+      "texto": "Armador de plastico - Lion Rolling Circus",
+      "imagen": "img/producto27.jpeg"
+    },
+    {
+      "precio": 1750,
+      "id": 9,
+      "texto": "Bandeja Raw Negra Small",
+      "imagen": "img/producto28.jpeg"
+    },
+    {
+      "precio": 9000,
+      "id": 10,
+      "texto": "Neceser RAW",
+      "imagen": "img/producto29.jpeg"
+    }
+   
+   
+  ]
